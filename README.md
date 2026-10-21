@@ -25,8 +25,7 @@
 
 - **Backend Engineering:** 专注于 Java 后端架构（SpringBoot / Redis / WebSocket），具备从数据库设计到微服务部署上线的全栈开发经验。
 - **C++ & Reverse Engineering:** 深入底层开发，研发过 CS2 External 辅助工具，熟练使用 Windows API 进行多级指针读取、进程通信与内存偏移解析。
-- **Cybersecurity:** 具备红队渗透测试实战经验，熟悉 SQL 注入、文件上传、RCE 等 Web 漏洞原理，掌握 GetShell 与内网后渗透流程。
-- **Career Goal:** 寻求 Java 后端开发岗位（赣州 / 南昌），用代码解决实际业务痛点。
+- **Cybersecurity:** 具备红队渗透测试实战经验，熟悉 SQL 注入、文件上传、RCE 等 Web 漏洞原理，**拥有丰富的实战打点经验，多次成功获取目标服务器 Shell (GetShell)**，并掌握内网后渗透流程。
 
 <br>
 
