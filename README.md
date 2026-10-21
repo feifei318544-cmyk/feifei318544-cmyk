@@ -86,15 +86,17 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feifei318544-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifei318544-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&langs_count=8" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feifei318544-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifei318544-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&langs_count=8" />
+  </div>
 
   <br><br>
 
-  **Gitee Open Source Contributions**
+  **Gitee Open Source Projects**
   
   <a href="https://gitee.com/git_feifie">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgitee.com%2Fapi%2Fv5%2Fusers%2Fgit_feifie&query=%24.contributions&label=Total%20Contributions&color=00E5FF&style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee Contributions" />
+    <img src="https://img.shields.io/badge/Gitee-git__feifie-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee" />
   </a>
 
 </div>
